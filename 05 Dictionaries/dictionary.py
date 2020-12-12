@@ -4,6 +4,15 @@ print(detail['Name'])
 print(detail['City'])
 print(detail['Age'])
 
+# Lists and Dictionary in a Dictionary
+Profile : {
+    'Name' : {
+        'Fist_Name': "Pulkit",
+        'Last_Name': "Gautam"
+    },
+    'Languages': ["Python", "C++", "JavaScript"]
+}
+
 # Adding new Key-Value Pair
 detail['Colour'] = "Blue"
 print(detail)

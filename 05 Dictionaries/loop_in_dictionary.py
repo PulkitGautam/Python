@@ -13,3 +13,4 @@ for key, value in Employee.items():
 #                    /...  Body .../
          
 # If only one variable is given it is taken for key
+# Similarly list methods keys, value can be used
